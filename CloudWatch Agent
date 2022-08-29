@@ -29,6 +29,7 @@ $ wget https://s3.amazonaws.com/amazoncloudwatch-agent/ubuntu/amd64/latest/amazo
 ## Configure the CloudWatch agent
 $ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-config-wizard
 >> CollectD - no
+>> which default config do you want - advance
 >> Do you want to specify any lof files to monitor - no
 >> SSM - no
 
